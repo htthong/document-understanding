@@ -1,0 +1,25 @@
+end2end_eval:
+  metrics:
+    text_block:
+      metric:
+        - Edit_dist
+    display_formula:
+      metric:
+        - Edit_dist
+        - CDM
+    table:
+      metric:
+        - TEDS
+        - Edit_dist
+    reading_order:
+      metric:
+        - Edit_dist
+  dataset:
+    dataset_name: multipage_end2end_dataset
+    ground_truth:
+      data_path: /root/close_source_benchmark   # or /root/open_source
+    prediction:
+      data_path: ../../0428-results/gemini31-multipage/close_source
+    match_method: quick_match
+    exclude_subjects:
+      - MUSIC   # MUSIC has no per-page JSON GT; evaluate separately with multipage_md2md.yaml
