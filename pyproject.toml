@@ -27,14 +27,6 @@ tqdm = "4.67.1"
 torch = {version = "^2.13.0", source = "pytorch-cu132"}
 torchvision = {version = "^0.28.0", source = "pytorch-cu132"}
 
-# ==================== CÁC THƯ VIỆN BỔ SUNG CHO ADAPTERS ====================
-transformers = "^4.45.0"
-accelerate = "^0.34.0"
-qwen-vl-utils = "^0.0.8"
-bitsandbytes = "^0.43.0"  # Hỗ trợ Lượng hóa 8-bit / 4-bit giúp tiết kiệm VRAM
-einops = "^0.8.0"         # Cần thiết cho các mô hình như GOT-OCR2, Florence-2
-timm = "^1.0.0"           # Backbones cho mô hình thị giác
-
 [tool.poetry.scripts]
 omnidocbench-eval = "src.cli:main"
 
