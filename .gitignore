@@ -221,3 +221,4 @@ __marimo__/
 Datasets/*
 temp*
 settings.json
+pred_gt/
