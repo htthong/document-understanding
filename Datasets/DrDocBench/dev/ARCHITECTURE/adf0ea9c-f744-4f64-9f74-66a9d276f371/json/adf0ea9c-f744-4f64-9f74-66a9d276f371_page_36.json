@@ -1,0 +1,111 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 36,
+      "height": 1014,
+      "width": 671,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_36.jpg",
+      "page_attribute": {
+        "data_source": "book",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "perception",
+        "language": "english",
+        "layout": "single_column",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "title",
+        "poly": [
+          152.79647827148438,
+          55.450096130371094,
+          545.0936889648438,
+          55.450096130371094,
+          545.0936889648438,
+          99.63127899169922,
+          152.79647827148438,
+          99.63127899169922
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 2,
+        "text": "\\textbf{1 *The New Yorkers*\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "title",
+        "poly": [
+          150.75205993652344,
+          340.0439147949219,
+          248.57656860351562,
+          340.0439147949219,
+          248.57656860351562,
+          359.2664489746094,
+          150.75205993652344,
+          359.2664489746094
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 3,
+        "text": "Introduction\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          148.96136474609375,
+          382.8509216308594,
+          644.7391357421875,
+          382.8509216308594,
+          644.7391357421875,
+          844.64599609375,
+          148.96136474609375,
+          844.64599609375
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 4,
+        "text": "Let us return to the *New Yorker* covers. We opened with the gridded flatland of America, which situated the identity of New Yorkers. It is a question of what New Yorkers are to themselves, and to others. These covers exemplified the psychoanalytic structures of projection and introjection. The subject organises its relations to the world according to\ninside and outside, by articulating its identity with respect to space. In the Introduction, we said the aim of this argument was to construct an account of architectural space that is an elaboration of the psychoanalytic account of the subject. This account is not about different mathematical spaces, or mechanical space (moving bodies), Newtonian or otherwise. Nor is it about the space of everyday experience (the 'what is it like for you'), an approach that leads to sampling and tasting. While experience has bearing on any subjective account of space, such phenomenologies begin their investigations as if space were a prior object of experience. While it seems difficult to see how one might begin otherwise, we contest both *object and prior*.$^1$  These are questions a subjective account of space cannot beg. We noted that the discovery of the unconscious posed a crisis for the architectural understanding of space. The present thesis about the space of the unconscious began with a joke about space. We said that *A View of the World from 9th Avenue* was funny because it revealed something about the subjective doubling of vision that could only be revealed within the brackets of a joke. The joke gives voice to an anxiety about something that can only be discharged with laughter and that is only discovered by the subject through subsequent interpretation. The diminutions of perspective reflected not just depth of field but also the self-importance of New Yorkers with respect to the world. These claims must now be unpacked in ways that amplify projection and introjection.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          628.255615234375,
+          963.3121948242188,
+          641.0986328125,
+          963.3121948242188,
+          641.0986328125,
+          974.0963134765625,
+          628.255615234375,
+          974.0963134765625
+        ],
+        "ignore": false,
+        "anno_id": 5,
+        "text": "21",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": []
+    }
+  }
+]

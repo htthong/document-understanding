@@ -1,0 +1,199 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 33,
+      "height": 1008,
+      "width": 674,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_33.jpg",
+      "page_attribute": {
+        "data_source": "book",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "structural_reconstruction",
+        "language": "english",
+        "layout": "other_layout",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          39.662353515625,
+          71.1653060913086,
+          535.078125,
+          71.1653060913086,
+          535.078125,
+          209.3211669921875,
+          39.662353515625,
+          209.3211669921875
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 3,
+        "text": "mirror space, the architecture positions the subject by representing it as caught in a picture. These projects problematise their status as space by identifying themselves with representations of space. Architecture is by default an intervention in the field of vision, but these make a particular point of it. In these projects, montage is an effect of camera position, which find lines of alignment between inside and outside, or an effect of mirrors, which are image-producing machines, and which insert the figure into the space as if it were a picture.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          38.7550163269043,
+          213.01539611816406,
+          534.66845703125,
+          213.01539611816406,
+          534.66845703125,
+          552.5958251953125,
+          38.7550163269043,
+          552.5958251953125
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 4,
+        "text": "This introduction has made many claims; we need now to unpack them. We have mentioned Brunelleschi's demonstration without fully describing it because our purpose here has been to put it in relation to Lacan's diagram. This relation has been described as a displacement of the picture plane, a convergence (*condensation? .. versus displacement*) of thought, a species of montage. It was facilitated by a split. The important point to come away with is that with questions of inside/outside, we are dealing with projection. Perspective is first of all projection. Lacan's diagram is a diagram of projection, at least when read with Brunelleschi's demonstration (Lacan rarely uses the term *projection*). If it is possible to understand the diagrams in these rather abstract terms, it remains to make sense of them in the more accommodating terms of spatial experience, and in the more rigorous terms of a close reading of Brunelleschi's demonstration and Lacan's visual field. We need to put Brunelleschi and Le Corbusier in dialogue, by contemplating images of their spaces. In the first chapter, we return to the two *New Yorker* cartoons: we will begin by examining the image as a projection of the identity of New Yorkers. We will see that every time an image of the world goes out, a message comes back. Projection and its double, introjection. This couple – this operational montage – defines the subject's relation to its world.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "figure",
+        "poly": [
+          37.75351715087893,
+          585.9540405273438,
+          304.69032269359894,
+          585.9540405273438,
+          304.69032269359894,
+          825.7880640412706,
+          37.75351715087893,
+          825.7880640412706
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 5,
+        "attribute": {}
+      },
+      {
+        "category_type": "figure",
+        "poly": [
+          316.7026062011719,
+          586.8665161132812,
+          674,
+          586.8665161132812,
+          674,
+          827.684364762229,
+          316.7026062011719,
+          827.684364762229
+        ],
+        "ignore": false,
+        "order": 4,
+        "anno_id": 6,
+        "attribute": {}
+      },
+      {
+        "category_type": "figure_caption",
+        "poly": [
+          37.87183380126953,
+          841.6497802734375,
+          205.93341064453125,
+          841.6497802734375,
+          205.93341064453125,
+          871.7645263671875,
+          37.87183380126953,
+          871.7645263671875
+        ],
+        "ignore": false,
+        "order": 5,
+        "anno_id": 7,
+        "text": "*Figure 1.8a*\n**Le Corbusier's Ozenfant studio.**\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "figure_caption",
+        "poly": [
+          38.20989608764658,
+          889.9628934743434,
+          657.3895263671876,
+          889.9628934743434,
+          657.3895263671876,
+          938.6224365234375,
+          38.20989608764658,
+          938.6224365234375
+        ],
+        "ignore": false,
+        "order": 6,
+        "anno_id": 10,
+        "text": "*Figure 1.8b*\n**Le Corbusier's Villa Church at Ville d'Avray, living room. Two projects which problematise the architectural relation between interior/exterior, where the outside becomes an imaginary projection of the inside.**\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "header",
+        "poly": [
+          39.25495529174805,
+          23.811769485473633,
+          102.83467864990234,
+          23.811769485473633,
+          102.83467864990234,
+          35.173980712890625,
+          39.25495529174805,
+          35.173980712890625
+        ],
+        "ignore": false,
+        "anno_id": 2,
+        "text": "Introduction",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          38.62300109863281,
+          975.8578491210938,
+          50.994049072265625,
+          975.8578491210938,
+          50.994049072265625,
+          985.865966796875,
+          38.62300109863281,
+          985.865966796875
+        ],
+        "ignore": false,
+        "anno_id": 11,
+        "text": "18",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": [
+        {
+          "source_anno_id": 5,
+          "target_anno_id": 7,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 6,
+          "target_anno_id": 10,
+          "relation_type": "parent_son"
+        }
+      ]
+    }
+  }
+]

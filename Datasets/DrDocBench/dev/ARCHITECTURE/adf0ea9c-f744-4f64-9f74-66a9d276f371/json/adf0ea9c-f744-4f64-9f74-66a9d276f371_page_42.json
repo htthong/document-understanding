@@ -1,0 +1,253 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 42,
+      "height": 1014,
+      "width": 671,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_42.jpg",
+      "page_attribute": {
+        "data_source": "academic_literature",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "structural_reconstruction",
+        "language": "english",
+        "layout": "single_column",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          146.30772399902344,
+          81.68453216552734,
+          643.2240600585938,
+          81.68453216552734,
+          643.2240600585938,
+          218.29574584960938,
+          146.30772399902344,
+          218.29574584960938
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 3,
+        "text": "Manhattan that lies under the plan, that deceptively *untransparent* grid. It is the plan\nthat makes Manhattan safe for cruising again (it shows you where Badassin begins). As\ncomforting as it might be to have this plan to hand when venturing out of an evening, it\nhas to be suppressed for it reveals the prejudice and fear that lies beneath the surface of\nthe liberal middle-class artsy academicy intelligentsia to whom *The New Yorker* speaks\ndirectly. In more ways than one, the alienation that this cover provokes is an alienation\nfrom within.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "title",
+        "poly": [
+          147.1993865966797,
+          260.678466796875,
+          239.9778289794922,
+          260.678466796875,
+          239.9778289794922,
+          279.93402099609375,
+          147.1993865966797,
+          279.93402099609375
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 4,
+        "text": "Introjection\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          149.03835669941006,
+          305.18055908316836,
+          640.2052994513194,
+          305.18055908316836,
+          640.2052994513194,
+          440.3200670749645,
+          149.03835669941006,
+          440.3200670749645
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 14,
+        "text": "This cartoon is funny because it turns out that the fear New Yorkers have of other places conceals an unacknowledged anxiety New Yorkers have about themselves. According to Freud, we project the bad object and introject the good one. If projection involves the subject expelling something from within and casting it upon the world, introjection involves the subject internalising features of the world into itself. The bad object returns to haunt us in the form of strange names, we experience it as anxiety, and we do our best to shield ourselves from it with jokes.$^{7}$\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          146.9838104248047,
+          446.0988464355469,
+          642.3648681640625,
+          446.0988464355469,
+          642.3648681640625,
+          603.2490234375,
+          146.9838104248047,
+          603.2490234375
+        ],
+        "ignore": false,
+        "order": 4,
+        "anno_id": 6,
+        "text": "Although both processes involve crossing a psychic frontier between the\nsubject's inner and outer worlds, it would be a mistake to think that introjection is simply\nthe reverse sense of projection. For Lacan, contra Freud, introjection is of an entirely\ndifferent order. Projection involves the image and the imaginary order (reverse projection\nis simply projection of an image by others). Introjection involves the internalisation of\nan object and relates to language and the symbolic order. It is therefore bound up with\nthe discourse on objects that abounds in Lacan's text, which revolves around his *arché-*\nobject *objet* $\\alpha$, and takes in the theory of desire and the drives.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          147.37315368652344,
+          607.2728271484375,
+          642.4824829101562,
+          607.2728271484375,
+          642.4824829101562,
+          664.5542602539062,
+          147.37315368652344,
+          664.5542602539062
+        ],
+        "ignore": false,
+        "order": 5,
+        "anno_id": 7,
+        "text": "We carve out the proper space of introjection with words and other signifiers.\n*New Yorkistan* is a plan, not a view, and in this plan, language takes pride of place.\nThat the alienation provoked by this plan is an effect of language should be clear from\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "figure",
+        "poly": [
+          145.82363891601568,
+          700.3760718497299,
+          641.7240600585939,
+          700.3760718497299,
+          641.7240600585939,
+          843.3774146231674,
+          145.82363891601568,
+          843.3774146231674
+        ],
+        "ignore": false,
+        "order": 6,
+        "anno_id": 8,
+        "attribute": {}
+      },
+      {
+        "category_type": "figure_caption",
+        "poly": [
+          148.04058837890634,
+          859.1404722274906,
+          255.87144470214858,
+          859.1404722274906,
+          255.87144470214858,
+          871.1014600809484,
+          148.04058837890634,
+          871.1014600809484
+        ],
+        "ignore": false,
+        "order": 7,
+        "anno_id": 10,
+        "text": "Figure 1.4a, b and c\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "figure_footnote",
+        "poly": [
+          146.4295196533204,
+          872.4876708984375,
+          628.8833618164064,
+          872.4876708984375,
+          628.8833618164064,
+          947.3458862304688,
+          146.4295196533204,
+          947.3458862304688
+        ],
+        "ignore": false,
+        "order": 8,
+        "anno_id": 11,
+        "text": "'Relations between various strata of the person under different circumstances', from Kurt Levin (1936). Examples of topological diagrams of Levin's psychological life space, which recall the interconnected blobular namescape of *New Yorkistan*. According to Levin, psychological life space is divided into regions with different degrees of separation from each other. Figures a, b and c indicate the same psyche under different degrees of stress.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "header",
+        "poly": [
+          555.8908081054688,
+          31.968088150024414,
+          643.2098388671875,
+          31.968088150024414,
+          643.2098388671875,
+          44.74751281738281,
+          555.8908081054688,
+          44.74751281738281
+        ],
+        "ignore": false,
+        "anno_id": 2,
+        "text": "The New Yorkers",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          628.273193359375,
+          986.4806518554688,
+          641.107666015625,
+          986.4806518554688,
+          641.107666015625,
+          996.7780151367188,
+          628.273193359375,
+          996.7780151367188
+        ],
+        "ignore": false,
+        "anno_id": 12,
+        "text": "27",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": [
+        {
+          "source_anno_id": 8,
+          "target_anno_id": 10,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 8,
+          "target_anno_id": 11,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 7,
+          "target_anno_id": -1,
+          "relation_type": "truncated"
+        }
+      ]
+    }
+  }
+]

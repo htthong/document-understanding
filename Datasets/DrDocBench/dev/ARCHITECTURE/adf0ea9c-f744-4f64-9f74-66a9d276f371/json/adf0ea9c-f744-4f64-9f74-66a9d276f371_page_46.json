@@ -1,0 +1,209 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 46,
+      "height": 1014,
+      "width": 671,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_46.jpg",
+      "page_attribute": {
+        "data_source": "academic_literature",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "perception",
+        "language": "english",
+        "layout": "single_column",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          153.85593122179222,
+          82.58543779504214,
+          649.3614946899646,
+          82.58543779504214,
+          649.3614946899646,
+          299.7507289300858,
+          153.85593122179222,
+          299.7507289300858
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 10,
+        "text": "if not projective, and through it, Lacan argues, the subject articulates its outer from inner world for the first time. It will remain a template for identity and for the world. In *The Four Fundamental Concepts of Psychoanalysis*, Lacan articulates the subject's visual field with a diagram that combines projection and reverse projection in one structure. The viewing subject views itself. The viewing subject is viewed by others. Although Lacan does not discuss introjection in the context of the visual field, introjection and reverse projection are linked, because the image that returns to the subject returns on the speech of the other. The cartoon has to be unpacked by interpretation (this text, my voice) in order for its effect to be known; the view of an other is not a possible part of the subject's visual field unless it is communicated back to the subject by words, pictures or other media.$^{18}$\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          152.85076229601623,
+          306.657092562162,
+          649.3796404490771,
+          306.657092562162,
+          649.3796404490771,
+          605.8580732944149,
+          152.85076229601623,
+          605.8580732944149
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 11,
+        "text": "If we read the cartoons together.... The strange language of *New Yorkistan* is projected into the familiar space of *A View of the World...*; *A View of the World...* is projected onto the map of the world that is *New Yorkistan*. They form the double triangle. We can speculate about an economy between architecture and language, how the view of architecture and the plan of language infect each other’s spaces. In *A View of the World...*, the world is presented as a familiar view which envelops the subject like Adolf Loos’ well-tailored suit. In *New Yorkistan*, Manhattan is a surface tattooed in strange names over which the subject can perhaps glide, but hardly inhabit. The one reaffirms, the other alienates. Writing and speech carry with them the unbearable closeness of one subject to another, and space is the screen that both projects them and screens them out. According to Georg Simmel, sociologist of nineteenth-century cities, we build public spaces to ameliorate the effects of social interaction in the congested metropolis. According to Vitruvius, architecture is both the site for and an effect of the newly known language. (It is equally the site for a reversal of this assimilation, when at a stroke, at Babel, language became strange again.)$^{19}$\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          155.79847717285156,
+          608.784912109375,
+          650.895263671875,
+          608.784912109375,
+          650.895263671875,
+          645.6322021484375,
+          155.79847717285156,
+          645.6322021484375
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 5,
+        "text": "When it is projected, language is wallpaper. Introjected speech has the form of a linguistic bullet. We are assailed everywhere by the armour-piercing speech\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "figure",
+        "poly": [
+          13.095341682434082,
+          678.0589599609375,
+          651.1614990234375,
+          678.0589599609375,
+          651.1614990234375,
+          888.0594482421875,
+          13.095341682434082,
+          888.0594482421875
+        ],
+        "ignore": false,
+        "order": 4,
+        "anno_id": 6,
+        "attribute": {}
+      },
+      {
+        "category_type": "figure_caption",
+        "poly": [
+          11.804580343080131,
+          904.4987920553551,
+          125.37258034308012,
+          904.4987920553551,
+          125.37258034308012,
+          919.1003920553553,
+          11.804580343080131,
+          919.1003920553553
+        ],
+        "ignore": false,
+        "order": 5,
+        "anno_id": 12,
+        "text": "Figure 1.5a,b and c\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "figure_footnote",
+        "poly": [
+          13.094434738159508,
+          917.0517940553061,
+          649.6549350239309,
+          917.0517940553061,
+          649.6549350239309,
+          954.2367919089525,
+          13.094434738159508,
+          954.2367919089525
+        ],
+        "ignore": false,
+        "order": 6,
+        "anno_id": 8,
+        "text": "Mobius strip, Klein bottle and diagram showing that the projective plane returns like a mobius strip when it is projected to infinity. (Diagrams redrawn from Aleksandrov *et al., Mathematics* (1963)).\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "header",
+        "poly": [
+          563.6513671875,
+          33.11587905883789,
+          650.5894165039062,
+          33.11587905883789,
+          650.5894165039062,
+          45.763580322265625,
+          563.6513671875,
+          45.763580322265625
+        ],
+        "ignore": false,
+        "anno_id": 2,
+        "text": "The New Yorkers",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          636.6735229492188,
+          987.5733642578125,
+          649.9589233398438,
+          987.5733642578125,
+          649.9589233398438,
+          998.219482421875,
+          636.6735229492188,
+          998.219482421875
+        ],
+        "ignore": false,
+        "anno_id": 9,
+        "text": "31",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": [
+        {
+          "source_anno_id": 6,
+          "target_anno_id": 8,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 6,
+          "target_anno_id": 12,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 5,
+          "target_anno_id": -1,
+          "relation_type": "truncated"
+        }
+      ]
+    }
+  }
+]

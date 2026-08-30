@@ -1,0 +1,68 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 34,
+      "height": 1014,
+      "width": 671,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_34.jpg",
+      "page_attribute": {
+        "data_source": "book",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "perception",
+        "language": "english",
+        "layout": "single_column",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "title",
+        "poly": [
+          147.21322631835938,
+          61.45138931274414,
+          250.083251953125,
+          61.45138931274414,
+          250.083251953125,
+          101.81566619873047,
+          147.21322631835938,
+          101.81566619873047
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 2,
+        "text": "Part $\\mathrm{I}$\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "title",
+        "poly": [
+          147.9699249267578,
+          168.8547821044922,
+          430.2298889160156,
+          168.8547821044922,
+          430.2298889160156,
+          257.9944763183594,
+          147.9699249267578,
+          257.9944763183594
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 5,
+        "text": "Projection and\nintrojection\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": []
+    }
+  }
+]

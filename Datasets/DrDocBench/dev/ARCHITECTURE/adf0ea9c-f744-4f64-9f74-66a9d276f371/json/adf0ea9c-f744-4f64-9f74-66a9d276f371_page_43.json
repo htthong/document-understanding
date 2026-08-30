@@ -1,0 +1,182 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 43,
+      "height": 1008,
+      "width": 674,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_43.jpg",
+      "page_attribute": {
+        "data_source": "academic_literature",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "perception",
+        "language": "english",
+        "layout": "single_column",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          34.64081573486328,
+          73.13640594482422,
+          530.2793579101562,
+          73.13640594482422,
+          530.2793579101562,
+          372.8775634765625,
+          34.64081573486328,
+          372.8775634765625
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 3,
+        "text": "the fact that it is dressed up in the linguistic drag of Afghanistan. The anxiety in this cover is not just to do with the destruction of the World Trade Towers and homeland security. In Freud and Lacan, anxiety is associated with the imminent proximity of the unconscious object: the object that threatens to emerge from behind the image surface of consciousness. The presence of the names seems to bloat the plan and distort it in the direction of putrefaction. Underlying this is an anxiety about language itself, or at least language when it comes to us in the form of an image. Think of an enigmatic graffiti that stymies interpretation, strange symbols painted on doors at night. It is the harbinger of death and emptiness. Lacan gets close to this: if there is a model for strange words on a familiar surface, it is *the writing on the walls* in the Book of Daniel. *Mene*. *Tekel,*. *Upharsin* appear mysteriously on the walls of the palace of King Belshazzar, son of Nebuchadnezzar. They were interpreted by the prophet Daniel and foretold the rapidly approaching destruction of his kingdom.$^{8}$ (This essentially malevolent practice is taken up by the advertising industry when it makes that particularly visual form of name, the logo.)\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          35.45553049303825,
+          378.69564726524766,
+          530.5004272460938,
+          378.69564726524766,
+          530.5004272460938,
+          574.5665283203125,
+          35.45553049303825,
+          574.5665283203125
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 4,
+        "text": "This plan reminds us how strange naming is and how foreign is language when it intrudes upon our space. We do not name ourselves. Our name is chosen before we are born and pounded into us time and again by our mothers, along with other objects like breasts; Lacan calls her *m(other)* to underscore her status to the subject, preferred maybe but as other as any other other. The name may be a source of empowerment, but it is bound up with castration. With the name, the social order of language is imposed upon us and marks us forever. Virtually all our social relations go through language, everything from title deeds to jokes. Language feels as if it comes from inside us, but really it invades us. It is naturalised to the extent that we no longer retain a sense of its original strangeness.$^{9}$\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "title",
+        "poly": [
+          36.296226501464844,
+          615.0603637695312,
+          293.39739990234375,
+          615.0603637695312,
+          293.39739990234375,
+          634.7828369140625,
+          36.296226501464844,
+          634.7828369140625
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 5,
+        "text": "A topological view of manhattan\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          35.58986282348633,
+          657.8180541992188,
+          531.279541015625,
+          657.8180541992188,
+          531.279541015625,
+          877.3206787109375,
+          35.58986282348633,
+          877.3206787109375
+        ],
+        "ignore": false,
+        "order": 4,
+        "anno_id": 6,
+        "text": "If *A View of the World...* reaffirms the familiar and crystalline spatial order of vision, the compensatory and opaque space of *New Yorkistan* opens to the spatial order of language. The effect of *New Yorkistan* derives from the fact that it is part of a transformation series of plans of Manhattan which begins with the street plan, and includes the boxy zip code plan published in the *Yellow Pages*, and the bloated plan upon which the subway system is traced. Its spatiality bears most allegiance to the hydraulic pushing and pulling of the subway map. Dark, noisy, often wet and always dirty. *New Yorkistan* has the whiff of internal organs about it, piled upon each other, collapsed unless full of air, food or shit. If you pull one out, then others would slip around a bit to fill up the vacancy. It is a wet squishy space like the inside of the human body (`introjection continues to bear the stamp of its bodily prototype [incorporation]').$^{10}$\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          35.609046936035156,
+          881.582763671875,
+          532.0383911132812,
+          881.582763671875,
+          532.0383911132812,
+          939.458984375,
+          35.609046936035156,
+          939.458984375
+        ],
+        "ignore": false,
+        "order": 5,
+        "anno_id": 7,
+        "text": "Plans use the letters of a name to represent a spatial distribution. The name not only nominates, it also shows where. 'Pashmina' (surrounding 'Shatoosh', south of 'Khlintunisia'), not only summons Pashmina, tests whether or not it exists; it also shows\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "header",
+        "poly": [
+          34.544673919677734,
+          25.208837509155273,
+          169.31405639648438,
+          25.208837509155273,
+          169.31405639648438,
+          37.91193771362305,
+          34.544673919677734,
+          37.91193771362305
+        ],
+        "ignore": false,
+        "anno_id": 2,
+        "text": "Projection and introjection",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          35.75339126586914,
+          978.3152465820312,
+          49.279624938964844,
+          978.3152465820312,
+          49.279624938964844,
+          989.107666015625,
+          35.75339126586914,
+          989.107666015625
+        ],
+        "ignore": false,
+        "anno_id": 8,
+        "text": "28",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": [
+        {
+          "source_anno_id": 7,
+          "target_anno_id": -1,
+          "relation_type": "truncated"
+        }
+      ]
+    }
+  }
+]

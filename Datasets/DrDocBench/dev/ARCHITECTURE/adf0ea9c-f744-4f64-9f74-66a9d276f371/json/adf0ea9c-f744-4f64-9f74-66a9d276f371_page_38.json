@@ -1,0 +1,182 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 38,
+      "height": 1014,
+      "width": 671,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_38.jpg",
+      "page_attribute": {
+        "data_source": "book",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "structural_reconstruction",
+        "language": "english",
+        "layout": "single_column",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "figure",
+        "poly": [
+          4.896704224554136,
+          74.65454101562511,
+          649.6065424643625,
+          74.65454101562511,
+          649.6065424643625,
+          267.6897131444192,
+          4.896704224554136,
+          267.6897131444192
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 3,
+        "attribute": {}
+      },
+      {
+        "category_type": "figure_caption",
+        "poly": [
+          8.67473779247797,
+          272.206685653003,
+          110.63234811346967,
+          272.206685653003,
+          110.63234811346967,
+          285.80103369580183,
+          8.67473779247797,
+          285.80103369580183
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 8,
+        "text": "Figure 1.1a and b\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          151.09922790527338,
+          317.54234558983336,
+          646.0444946289062,
+          317.54234558983336,
+          646.0444946289062,
+          616.753954476552,
+          151.09922790527338,
+          616.753954476552
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 4,
+        "text": "of the triangle becomes transparent (Figure 1.1b). What is looked at through the image is indicated by the base of an extended triangle in dashed lines. The diagram reflects the fact that for the subject, every view of the world is also an image. The triangle formalises a relation between two things, someone who identifies with Manhattan and the world, in the terms mobilised by the visual representation of space. The triangle indicates the way the view projects out at the world from a point of projection. The subject stands before this view as before the image, yoked to its centre, the projection point. Position, screen and the triangulated relation between them constitutes a conceptual apparatus, which organises perception and makes it intelligible. In order for projection to work, two things have to happen: New Yorkers have to, in a sense, internalise this apparatus – they have to take it up and make it constitutive of their relation to the world; and they have to identify with this point. New Yorkers easily identify with this point, placing themselves at it, what Lacan calls symbolic identification, and by so doing, make it their world. The fact that we are unaware of these symbolic burdens does not mean they do not operate, simply that they are unconscious.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          150.55357360839844,
+          621.5450439453125,
+          645.3212890625,
+          621.5450439453125,
+          645.3212890625,
+          818.7725830078125,
+          150.55357360839844,
+          818.7725830078125
+        ],
+        "ignore": false,
+        "order": 4,
+        "anno_id": 5,
+        "text": "Every perspective is someone’s view, and the fact that someone else can move into the same position to have the same view makes it no more objective than the fact that two people who repeat the same words make meaning objective. For the subject, the perspective is not an objective view but a universal form of subjectivity. It is the form of view which says that every view is subjective. It is not a view from all positions or from no position (whatever that might be). It is not clear what other forms of view there might be that would have a stronger claim on objectivity, a view that would constitute a standard against which any particular views – a New Yorker’s, a Chinese’s – could be measured. Such a view would be a truth against which subjectivity (image, opinion, prejudice, taste, fiction) is measured.$^{3}$\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          149.74302673339844,
+          823.0042724609375,
+          646.0855712890625,
+          823.0042724609375,
+          646.0855712890625,
+          941.0278930664062,
+          149.74302673339844,
+          941.0278930664062
+        ],
+        "ignore": false,
+        "order": 5,
+        "anno_id": 6,
+        "text": "It is no use protesting that *view* of the world is ambiguous between *image and perspective*: the image could be anything – a cartoon for instance – and a perspective is a precise survey of space; the image is subjective and perspective is objective. The joke is mobilised because this image takes the form of a perspective, and for the subject perspective has the status of an image. This cover inhabits two registers: it is not just a view (i.e. a perspective) of the world from New York, but an image that reflects the\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "header",
+        "poly": [
+          561.0125122070312,
+          27.776058197021484,
+          647.8492431640625,
+          27.776058197021484,
+          647.8492431640625,
+          39.868804931640625,
+          561.0125122070312,
+          39.868804931640625
+        ],
+        "ignore": false,
+        "anno_id": 2,
+        "text": "The New Yorkers",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          631.4102783203125,
+          982.0963745117188,
+          644.1305541992188,
+          982.0963745117188,
+          644.1305541992188,
+          992.0617065429688,
+          631.4102783203125,
+          992.0617065429688
+        ],
+        "ignore": false,
+        "anno_id": 7,
+        "text": "23",
+        "attribute": {
+          "text_language": "other",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": [
+        {
+          "source_anno_id": 3,
+          "target_anno_id": 8,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 6,
+          "target_anno_id": -1,
+          "relation_type": "truncated"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 37,
+      "height": 1008,
+      "width": 674,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_37.jpg",
+      "page_attribute": {
+        "data_source": "book",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "perception",
+        "language": "english",
+        "layout": "single_column",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "title",
+        "poly": [
+          31.23128318786621,
+          71.20071411132812,
+          212.65066528320312,
+          71.20071411132812,
+          212.65066528320312,
+          90.43952178955078,
+          31.23128318786621,
+          90.43952178955078
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 3,
+        "text": "A View of the World...\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          31.048065185546875,
+          108.18721771240234,
+          526.6253051757812,
+          108.18721771240234,
+          526.6253051757812,
+          287.4931945800781,
+          31.048065185546875,
+          287.4931945800781
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 4,
+        "text": "In the foreground: the blocky grid of buildings which are themselves blocky grids; the Louis Kahn traffic-analysis pattern. In the background: a thin Pacific rim. It is funny because New Yorkers see the world like that and they are bullish enough about New York to assume that everyone else does too. As if even the people clinging to China think the Lower West Side is the coolest place on Earth. Better still: as if they see themselves the way New Yorkers on Ninth Avenue see them. Inhabiting a strip. One could diagnose a third-person spatial dysfunction whose symptom was to always refer to someone else’s *there as your here*. It would involve a predisposition to assume other people’s views of your world as your own.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          30.813987731933594,
+          290.59661865234375,
+          526.7434692382812,
+          290.59661865234375,
+          526.7434692382812,
+          448.7090759277344,
+          30.813987731933594,
+          448.7090759277344
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 5,
+        "text": "The cover is funny for another reason. New Yorkers do think that New York is the biggest and best, even if they have the smarts to laugh at it. They are laughing at themselves. This view of the world says as much about New Yorkers as it does about the people they are looking at. The view has an opposite sense that works through interpretation, not vision. An interpretation of why this picture is funny leads to a recognition by New Yorkers of their geopolitical foibles in the non-threatening form of a joke. The view is projected onto the world *by* the subject; the interpretation returns a picture *of* the subject to the subject via language.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          31.068193435668945,
+          452.2751770019531,
+          527.07275390625,
+          452.2751770019531,
+          527.07275390625,
+          650.6371459960938,
+          31.068193435668945,
+          650.6371459960938
+        ],
+        "ignore": false,
+        "order": 4,
+        "anno_id": 6,
+        "text": "Let us look at the first sense: what this cartoon says about perspective projection. *A View of the World*... is not the view of the world, and not because there is another view which is, with which it does not coincide, but because there is no objective view. The lie of this joke, that this view of the world is everyone’s view, gives way to another truth, that all views are subjective. For the subject, every view is the view of someone. The view that comes back to the subject from the outside is just the view of an other. If the objectivity of the visual representation of space is undermined by this cover, it is not because it is confronted by a particularly persuasive image, a defeat of the objective by the rhetorical power of the subjective, but because it claims that every perspective is the view of a particular subject.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          30.753711700439453,
+          653.7545776367188,
+          527.2088012695312,
+          653.7545776367188,
+          527.2088012695312,
+          872.4920043945312,
+          30.753711700439453,
+          872.4920043945312
+        ],
+        "ignore": false,
+        "order": 5,
+        "anno_id": 7,
+        "text": "We formalise the relation of subject to image with the geometry of a triangle (Figure 1.1a). The subject, a New Yorker, occupies the projection point at the apex; the image becomes the baseline. The diagram applies to any image for the subject, at least any image whose relation to the subject could be described as a subject viewing an image. The image could be New Yorkistan as well as *A View of the World*, ... or any other image, printed or in any other form. The diagram simply describes how a subject is positioned before the image, how its view of the image radiates outward, and stops at the image. The image is as opaque as paper: it equally describes the relation of the subject to an object. Lacan points out that this account of the relation of subject to the world accords with Descartes’ cogito in Meditations, for which the world is an extension of the subject.$^{2}$\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          30.647186279296875,
+          877.0147705078125,
+          528.3484497070312,
+          877.0147705078125,
+          528.3484497070312,
+          935.0186157226562,
+          30.647186279296875,
+          935.0186157226562
+        ],
+        "ignore": false,
+        "order": 6,
+        "anno_id": 8,
+        "text": "Because the image is the image of a view, this viewing relation seems to be both strengthened and conflated. In a move that anticipates Lacan's diagram of the\nvisual field, we refine the diagram to distinguish image from view. The image at the base\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "header",
+        "poly": [
+          29.957075119018555,
+          20.463882446289062,
+          165.20594787597656,
+          20.463882446289062,
+          165.20594787597656,
+          33.621551513671875,
+          29.957075119018555,
+          33.621551513671875
+        ],
+        "ignore": false,
+        "anno_id": 2,
+        "text": "Projection and introjection",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          30.496578216552734,
+          975.7633056640625,
+          43.940467834472656,
+          975.7633056640625,
+          43.940467834472656,
+          986.4906005859375,
+          30.496578216552734,
+          986.4906005859375
+        ],
+        "ignore": false,
+        "anno_id": 9,
+        "text": "22",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": [
+        {
+          "source_anno_id": 8,
+          "target_anno_id": -1,
+          "relation_type": "truncated"
+        }
+      ]
+    }
+  }
+]

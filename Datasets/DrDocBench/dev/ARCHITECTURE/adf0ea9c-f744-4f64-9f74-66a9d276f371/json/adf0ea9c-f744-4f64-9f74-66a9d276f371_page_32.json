@@ -1,0 +1,204 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 32,
+      "height": 1014,
+      "width": 671,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_32.jpg",
+      "page_attribute": {
+        "data_source": "book",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "structural_reconstruction",
+        "language": "english",
+        "layout": "other_layout",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "figure",
+        "poly": [
+          5.352608203887831,
+          65.59012603759771,
+          403.40481120508434,
+          65.59012603759771,
+          403.40481120508434,
+          272.8905703793736,
+          5.352608203887831,
+          272.8905703793736
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 3,
+        "attribute": {}
+      },
+      {
+        "category_type": "figure",
+        "poly": [
+          420.26446050527073,
+          64.8773673251601,
+          640.3590515834387,
+          64.8773673251601,
+          640.3590515834387,
+          273.9247395461228,
+          420.26446050527073,
+          273.9247395461228
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 9,
+        "attribute": {}
+      },
+      {
+        "category_type": "figure_caption",
+        "poly": [
+          5.377932548522949,
+          279.55010986328125,
+          525.5772094726562,
+          279.55010986328125,
+          525.5772094726562,
+          312.9850158691406,
+          5.377932548522949,
+          312.9850158691406
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 4,
+        "text": "*Figure 1.7a*\n\\textbf{A still from Alain Renais' *Last Year in Marienbad* (1961), which reproduces Baroque mirror-space.}\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "figure_caption",
+        "poly": [
+          6.420869827270464,
+          328.96528363090874,
+          622.2827758789062,
+          328.96528363090874,
+          622.2827758789062,
+          376.25842285156244,
+          6.420869827270464,
+          376.25842285156244
+        ],
+        "ignore": false,
+        "order": 4,
+        "anno_id": 5,
+        "text": "*Figure 1.7b*\n\\textbf{Diller+Scofidio's *Delay in Glass or The Rotary Notary and his Hot Plate* (1987) (a staging of Duchamp's *Large Glass*).\n**Two projects in which architecture positions the subject by making him/her into a picture.**\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          146.00076293945312,
+          410.09881591796875,
+          640.6546020507812,
+          410.09881591796875,
+          640.6546020507812,
+          446.2219543457031,
+          146.00076293945312,
+          446.2219543457031
+        ],
+        "ignore": false,
+        "order": 5,
+        "anno_id": 6,
+        "text": "but - an inventory of architectural 'blanks', like panels, windows, screens, paintings and mirrors, and any architectural elements that invoke the picture plane.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          145.42918395996094,
+          450.4665832519531,
+          641.1179809570312,
+          450.4665832519531,
+          641.1179809570312,
+          931.165771484375,
+          145.42918395996094,
+          931.165771484375
+        ],
+        "ignore": false,
+        "order": 6,
+        "anno_id": 7,
+        "text": "It should be clear that there is no psychoanalytic architecture, only strategies for thinking about architecture and its various discourses. To my mind, it is a disservice to the relation of architecture to criticism to attempt to build too quickly into an architecture the strategies of critique. It usually leads to rather wordy buildings. We should expect the impact of critique upon design to take more circuitous routes.$^18$ It is\npossible that different architectures - like different people - are more or less amenable to psychoanalytic critique. Although he does not discuss the styles, Lacan seems to have had a predilection for the Baroque; the convoluted planning and mirrored walls\nof the *french hôtel* point the way.$^19$ For him the psyche is an arabesqued and reflective thing. The prime candidates will always be architectures that tarry with their own image, like the classicism of Brunelleschi (his naves) and the modernism of Le Corbusier (but not necessarily architectures based on surrealist techniques like the automatic drawings of Coop Himmelbau or Frank Gehry). The staged sets of Diller+Scofidio are an interesting special case. Le Corbusier photographed his purist villa interiors in ways that problematise the relation of inside to outside. In the image of the Ozenfant studio, the outside is represented as if it were montaged onto the glass. The outside is an imaginary projection of the inside, an idea that harks back to Alberti's metaphor. In the photograph of the Villa Church living room, the outside is represented in a succession of relations to the inside, that recall Lacan's three registers. The far wall transforms from floor-to-ceiling glass to mirror. In between is a hyperbolically framed window. The outside is first in an unmediated relation to the inside (real), then in a relation highly mediated by\narchitecture and painting (symbolic), and finally a reflection (an imaginary projection of the inside). In this case, imaginary and real are similar, a similarity reflected in Lacan's early thought. In Diller+Scofidio's staging of Duchamp's *Large Glass*, and in Baroque\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "header",
+        "poly": [
+          577.487548828125,
+          18.948091506958008,
+          641.50341796875,
+          18.948091506958008,
+          641.50341796875,
+          30.7949161529541,
+          577.487548828125,
+          30.7949161529541
+        ],
+        "ignore": false,
+        "anno_id": 2,
+        "text": "Introduction",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          626.1723022460938,
+          970.1101684570312,
+          637.790283203125,
+          970.1101684570312,
+          637.790283203125,
+          980.2216796875,
+          626.1723022460938,
+          980.2216796875
+        ],
+        "ignore": false,
+        "anno_id": 8,
+        "text": "17",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": [
+        {
+          "source_anno_id": 3,
+          "target_anno_id": 4,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 9,
+          "target_anno_id": 5,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 7,
+          "target_anno_id": -1,
+          "relation_type": "truncated"
+        }
+      ]
+    }
+  }
+]

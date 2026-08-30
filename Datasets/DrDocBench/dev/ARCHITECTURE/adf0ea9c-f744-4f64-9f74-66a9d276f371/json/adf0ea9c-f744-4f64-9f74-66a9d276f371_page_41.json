@@ -1,0 +1,209 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 41,
+      "height": 1008,
+      "width": 674,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_41.jpg",
+      "page_attribute": {
+        "data_source": "academic_literature",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "structural_reconstruction",
+        "language": "english",
+        "layout": "single_column",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "figure",
+        "poly": [
+          23.328399382482196,
+          72.17564660464654,
+          659.6677594692869,
+          72.17564660464654,
+          659.6677594692869,
+          255.9659576416015,
+          23.328399382482196,
+          255.9659576416015
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 3,
+        "attribute": {}
+      },
+      {
+        "category_type": "figure_caption",
+        "poly": [
+          24.050796508789006,
+          269.8220825195313,
+          118.64823849789113,
+          269.8220825195313,
+          118.64823849789113,
+          282.3534570295618,
+          24.050796508789006,
+          282.3534570295618
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 4,
+        "text": "Figure 1.3a and b\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "figure_footnote",
+        "poly": [
+          22.788663864135742,
+          283.0783996582031,
+          649.4664916992188,
+          283.0783996582031,
+          649.4664916992188,
+          357.74981689453125,
+          22.788663864135742,
+          357.74981689453125
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 6,
+        "text": "A provisional mapping of *A View of the World...* and *New Yorkistan* onto Lacan's diagram of the visual field. To someone who identifies with Manhattan, the Chinese view themselves as New Yorkers view them and New Yorkers view themselves the way they view Afghanistans. The dashed line represents the circuit that goes through the field of the other. The identity of people who identify with Manhattan is not encapsulated in a simple image (of, for ex-ample, Manhattan), but is a relationship between images of New York and the world.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          24.170238494873047,
+          394.13751220703125,
+          518.4561157226562,
+          394.13751220703125,
+          518.4561157226562,
+          491.1924133300781,
+          24.170238494873047,
+          491.1924133300781
+        ],
+        "ignore": false,
+        "order": 4,
+        "anno_id": 8,
+        "text": "*World...*). It is presented for their point of view but not *from*) it. New Yorkers see Manhattan but only from the space they attribute to others or in a form they attribute to others. These two *New Yorker* covers make of Manhattan a rather odd proposition. Manhattan is either a point located outside the view, from which an image of others is projected; or else it is a dream for others.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          24.02400016784668,
+          495.1672058105469,
+          518.3746948242188,
+          495.1672058105469,
+          518.3746948242188,
+          794.2779541015625,
+          24.02400016784668,
+          794.2779541015625
+        ],
+        "ignore": false,
+        "order": 5,
+        "anno_id": 9,
+        "text": "New Yorkers' fear of places populated by strange tribes is really a fear of themselves. New Yorkers are not afraid of these tribes and their devastated land, because they are too far away (even 9/11 did not penetrate this fantasy). The joke is that what New Yorkers are afraid of is themselves. For all their bullishness about Manhattan, New Yorkers are afraid of the city at night, the darkened stoops and lobbies of its serried ranks of apartment buildings. They are masters of crossing to the safer side of the street. *Streetwise* for which New Yorkers are famous is not a savvy attitude towards the city; it's just a savvy name for fear. Although New York (Manhattan at least) is a uniform grid, and with the exception of a few parks like Morningside, the grid covers the island uniformly, New York is as ghettoised as any European city upon whose crooked and hierarchical streets a social history is inscribed. This means that the plan of Manhattan is hierarchical. You cannot read from the grid where the neighbourhoods change, and so cannot read from the plan where you are safe and where not. On the Upper West Side (Trumpistan), for instance, the difference between danger and safety can depend upon which side of Broadway you are on.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          24.188623428344727,
+          798.4053344726562,
+          520.4269409179688,
+          798.4053344726562,
+          520.4269409179688,
+          937.4006958007812,
+          24.188623428344727,
+          937.4006958007812
+        ],
+        "ignore": false,
+        "order": 6,
+        "anno_id": 10,
+        "text": "Manhattan is a murky battle ground of congressional and city council districts, postal codes and phone exchanges, neighbourhood school boards, ethnic, social and political groups, old industries and new services, special interest groups, graffiti artists, income brackets, street gangs, turf, muggers and salesmen, street vendors, galleries, fruit stands and public art projects, all in conflict with each other, and all out to get you (*all those Jamaican, Dominican, Puerto Rican Sunday soccer leagues, decked out in red and green and yellow, oh... and Harlem starts at 110th, right?*). New Yorkistan is the hidden\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "header",
+        "poly": [
+          22.593158721923828,
+          22.746355056762695,
+          156.73155212402344,
+          22.746355056762695,
+          156.73155212402344,
+          34.73931121826172,
+          22.593158721923828,
+          34.73931121826172
+        ],
+        "ignore": false,
+        "anno_id": 2,
+        "text": "Projection and Introjection",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          24.436189651489258,
+          976.6502685546875,
+          37.7098388671875,
+          976.6502685546875,
+          37.7098388671875,
+          986.8316650390625,
+          24.436189651489258,
+          986.8316650390625
+        ],
+        "ignore": false,
+        "anno_id": 11,
+        "text": "26",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": [
+        {
+          "source_anno_id": 3,
+          "target_anno_id": 4,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 3,
+          "target_anno_id": 6,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 10,
+          "target_anno_id": -1,
+          "relation_type": "truncated"
+        }
+      ]
+    }
+  }
+]

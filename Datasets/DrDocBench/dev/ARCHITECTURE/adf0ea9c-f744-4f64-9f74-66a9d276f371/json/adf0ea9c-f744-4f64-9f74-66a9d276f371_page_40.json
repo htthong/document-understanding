@@ -1,0 +1,160 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 40,
+      "height": 1014,
+      "width": 671,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_40.jpg",
+      "page_attribute": {
+        "data_source": "book",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "structural_reconstruction",
+        "language": "english",
+        "layout": "single_column",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          155.70008850097656,
+          79.722900390625,
+          652.2943115234375,
+          79.722900390625,
+          652.2943115234375,
+          300.36895751953125,
+          155.70008850097656,
+          300.36895751953125
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 3,
+        "text": "a screen when the truth of the humour emerges. This is a different sort of opacity; we might, with a nod to Colin Rowe call it *phenomenal*.$^5$ The image becomes opaque in the sense that it is no longer just a New Yorker's view of the world, but a view *of* the world, but a view of New Yorkers that works not through the image, but through language and interpretation. When we look at a photograph of the Parthenon, we soon see the Parthenon. Not the photograph itself (Figure 1.1a), not even the Parthenon in pieces, of which any photograph of the Parthenon must necessarily be an image (Figure 1.1b). Now the photograph functions as a screen which interrupts the view of the Parthenon in pieces, and becomes the perfect whole image of the object to which we identify.$^6$ The opaque image that returns to the subject is described in Lacan's diagram by the triangle indicating reverse projection, to which we shall return in the discussion of *New Yorkistan*.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "title",
+        "poly": [
+          157.2720489501953,
+          340.1512756347656,
+          275.6294860839844,
+          340.1512756347656,
+          275.6294860839844,
+          359.91522216796875,
+          157.2720489501953,
+          359.91522216796875
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 4,
+        "text": "New Yorkistan\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          155.53521728515625,
+          384.15447998046875,
+          651.55908203125,
+          384.15447998046875,
+          651.55908203125,
+          865.427734375,
+          155.53521728515625,
+          865.427734375
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 5,
+        "text": "The plan of Manhattan is drawn as if it were a map of New Yorkistan, one of those places like Afghanistan that Americans only find out about when they become the sites of natural or military disasters. The *New York Times* obliges by publishing a map of tribal demographics. The place has so few natural features, so little infrastructure that all the *Times* can muster is something tribal. It is not particularly attractive or exotic. It is the kind of foreign that remains foreign because there is nothing really to know about the place. *New Yorkistan* is a plan of Manhattan from the point of view of someone for whom New York is a foreign land. It recalls the humour of *A View of the World...* *as if the Chinese saw themselves the way New Yorkers on Ninth Avenue see them* but in reverse; as if New Yorkers saw themselves the way people in Afghanistan see them: occupying a tribal demographic map. We can formalise this relation in the same manner as we did *A View of the World* with the geometry of the triangle (Figure 1.2b). Except that now the projection point is on the side of the Other, and Manhattan is the screen upon which the image is projected. New Yorkers see an imaginary Manhattan projected from the position that at Pacific rim the triangle is reversed so that New Yorkers occupy the same position as in Figure 1.2a). The world appears to gaze back. But if this seems to be a view of Manhattan from the outside, it is not exactly an Afghanistan's view, but a New Yorker's view of an Afghanistan's view (*New Yorkistan* is featured on a *New Yorker* cover, and not a Kabul daily). As if New Yorkers saw themselves the way they see people in Afghanistan. It is a New Yorker's view of Afghanistan directed back on him/herself. It is by this subjective circuit, in which New Yorkers see themselves through the eyes of others, or from the space they attribute to others with whom they cannot identify, that New Yorkers are brought to contemplate the possibility that they are strange to themselves.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          155.75001525878906,
+          869.0680541992188,
+          652.1331787109375,
+          869.0680541992188,
+          652.1331787109375,
+          946.7711181640625,
+          155.75001525878906,
+          946.7711181640625
+        ],
+        "ignore": false,
+        "order": 4,
+        "anno_id": 6,
+        "text": "If this geopolitical accident provokes anxiety in New Yorkers, as it was undoubtedly intended, one of the ways to understand this anxiety is that New Yorkers find themselves in someone else's picture of Manhattan (rather like the way the Chinese might feel if they found themselves occupying a thin strip at the top of *A View of the*\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "header",
+        "poly": [
+          565.6528930664062,
+          30.876012802124023,
+          652.5805053710938,
+          30.876012802124023,
+          652.5805053710938,
+          43.843631744384766,
+          565.6528930664062,
+          43.843631744384766
+        ],
+        "ignore": false,
+        "anno_id": 2,
+        "text": "The New Yorkers",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          637.3342895507812,
+          986.0661010742188,
+          650.7517700195312,
+          986.0661010742188,
+          650.7517700195312,
+          996.6212158203125,
+          637.3342895507812,
+          996.6212158203125
+        ],
+        "ignore": false,
+        "anno_id": 7,
+        "text": "25",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": [
+        {
+          "source_anno_id": 6,
+          "target_anno_id": -1,
+          "relation_type": "truncated"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 39,
+      "height": 1008,
+      "width": 674,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_39.jpg",
+      "page_attribute": {
+        "data_source": "book",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "structural_reconstruction",
+        "language": "english",
+        "layout": "single_column",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          27.186267852783203,
+          69.36701202392578,
+          523.6356201171875,
+          69.36701202392578,
+          523.6356201171875,
+          288.7105407714844,
+          27.186267852783203,
+          288.7105407714844
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 3,
+        "text": "self-importance of New Yorkers. The smaller bits at the top are both farther away (perspective) and less important (image). The fact that the view in *A View of the World...* is a projection of the subject (its attitudes, prejudices, etc.) led to the conclusion that this cover functions as an image. But all perspectives are projections too. Every perspective is an image for the subject and every image is projected upon the world. If *A View of the World...* is 'distorted', it is because it is inconsistent with perspective, not because it is inconsistent with the world. Medieval painting is inconsistent with Renaissance perspective painting, not inconsistent with the world. Perspective deviates from other forms like plan or axonometric. That all perspectives are projections was one of Lacan's points, perhaps also Holbein's, when he asks us to view within the same space the immaculately foreshortened lute and an anamorphic skull in *The Ambassadors.*^4\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          26.894092559814453,
+          292.7331237792969,
+          522.3670043945312,
+          292.7331237792969,
+          522.3670043945312,
+          530.2799072265625,
+          26.894092559814453,
+          530.2799072265625
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 4,
+        "text": "In the first instance, the diagrams reflect the implied *trompe l'œil* or transparency of representation. We look through the *image* to the *thing* imaged. We see the world through the image of the view. If Figure 1.1a simply placed the viewer in front of an image or an object, Figure 1.1b shows that visual experience goes through the image. The diagram should be familiar to any student of perspective or to anyone who has ever run a slide projector. It is borrowed from perspective, but the image need not be a view (it could be the plan of *New Yorkistan*; *A View of the World...* isn't exactly a perspective either). Perspective is but the form of the relation of subject to the world. Visual space, the kind of space where things seem to get smaller (opaque) when they get farther away (transparent), is a constant reminder of -- but not the same as -- another relation, which is the relation of image, any image, even a perspective image, to subject and world.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          27.292491912841797,
+          534.8072509765625,
+          522.6959228515625,
+          534.8072509765625,
+          522.6959228515625,
+          632.1988525390625,
+          27.292491912841797,
+          632.1988525390625
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 5,
+        "text": "The image here seems transparent. When we look at the *New Yorker* cover, we either see a picture of an aerial view printed on a magazine cover, opaque; or we see an aerial view of the world, transparent. These options are indicated by Figures 1.1a and b respectively, and they always go together. But when we see Manhattan in an aggrandised relation to the rest of the world, the image functions as a screen. It becomes\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "figure",
+        "poly": [
+          28.26090159920771,
+          660.4210205078125,
+          333.47087743346543,
+          660.4210205078125,
+          333.47087743346543,
+          806.1975755758525,
+          28.26090159920771,
+          806.1975755758525
+        ],
+        "ignore": false,
+        "order": 4,
+        "anno_id": 6,
+        "attribute": {}
+      },
+      {
+        "category_type": "figure",
+        "poly": [
+          355.7429397349761,
+          666.4288237296421,
+          662.7774655973006,
+          666.4288237296421,
+          662.7774655973006,
+          807.7583258896386,
+          355.7429397349761,
+          807.7583258896386
+        ],
+        "ignore": false,
+        "order": 5,
+        "anno_id": 15,
+        "attribute": {}
+      },
+      {
+        "category_type": "figure_caption",
+        "poly": [
+          28.156619177617834,
+          819.905913711925,
+          89.8612477255725,
+          819.905913711925,
+          89.8612477255725,
+          832.140871881259,
+          28.156619177617834,
+          832.140871881259
+        ],
+        "ignore": false,
+        "order": 6,
+        "anno_id": 8,
+        "text": "Figure 1.2a\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "figure_footnote",
+        "poly": [
+          27.190292881522762,
+          834.548008317707,
+          420.06832786866653,
+          834.548008317707,
+          420.06832786866653,
+          849.7317004911231,
+          27.190292881522762,
+          849.7317004911231
+        ],
+        "ignore": false,
+        "order": 7,
+        "anno_id": 14,
+        "text": "A view of *A View of the World...* or *A View of the World...* as projection.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "figure_caption",
+        "poly": [
+          27.849964466252946,
+          867.2467041015625,
+          89.80803637501572,
+          867.2467041015625,
+          89.80803637501572,
+          881.0185161080983,
+          27.849964466252946,
+          881.0185161080983
+        ],
+        "ignore": false,
+        "order": 8,
+        "anno_id": 9,
+        "text": "Figure 1.2b\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "figure_footnote",
+        "poly": [
+          26.672466278076172,
+          883.1511840820312,
+          329.9931945800781,
+          883.1511840820312,
+          329.9931945800781,
+          897.3705444335938,
+          26.672466278076172,
+          897.3705444335938
+        ],
+        "ignore": false,
+        "order": 9,
+        "anno_id": 11,
+        "text": "A view of *New Yorkistan* or *New Yorkistan* as projection.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          26.05730628967285,
+          906.5523681640625,
+          653.25390625,
+          906.5523681640625,
+          653.25390625,
+          937.2700805664062,
+          26.05730628967285,
+          937.2700805664062
+        ],
+        "ignore": false,
+        "order": 10,
+        "anno_id": 12,
+        "text": "*A View of the World...* is my view of you. *New Yorkistan* is not my view of me, but your view of me, in so far as you succeed in communicating it back to me. And because it is yours, it is strange to me.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "header",
+        "poly": [
+          27.491317749023438,
+          20.898725509643555,
+          162.29672241210938,
+          20.898725509643555,
+          162.29672241210938,
+          33.37150573730469,
+          27.491317749023438,
+          33.37150573730469
+        ],
+        "ignore": false,
+        "anno_id": 2,
+        "text": "Projection and introjection",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          26.454071044921875,
+          975.9594116210938,
+          40.04254913330078,
+          975.9594116210938,
+          40.04254913330078,
+          985.9785766601562,
+          26.454071044921875,
+          985.9785766601562
+        ],
+        "ignore": false,
+        "anno_id": 13,
+        "text": "24",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": [
+        {
+          "source_anno_id": 6,
+          "target_anno_id": 8,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 6,
+          "target_anno_id": 14,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 15,
+          "target_anno_id": 9,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 15,
+          "target_anno_id": 11,
+          "relation_type": "parent_son"
+        },
+        {
+          "source_anno_id": 5,
+          "target_anno_id": 12,
+          "relation_type": "truncated"
+        }
+      ]
+    }
+  }
+]

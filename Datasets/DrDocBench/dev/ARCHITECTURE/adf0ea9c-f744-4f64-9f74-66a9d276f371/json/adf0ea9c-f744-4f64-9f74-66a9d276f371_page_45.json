@@ -1,0 +1,209 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 45,
+      "height": 1008,
+      "width": 674,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_45.jpg",
+      "page_attribute": {
+        "data_source": "academic_literature",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "perception",
+        "language": "english",
+        "layout": "single_column",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          26.084554672241104,
+          71.72415924072271,
+          523.1433175781249,
+          71.72415924072271,
+          523.1433175781249,
+          108.54587554931635,
+          26.084554672241104,
+          108.54587554931635
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 3,
+        "text": "image and the word. The word is written across the American landscape, whereas the\nmetric precision of the plan represses the inherent spatiality of the name.$^{14}$\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          25.89493751525879,
+          112.0369644165039,
+          522.0902099609375,
+          112.0369644165039,
+          522.0902099609375,
+          270.53118896484375,
+          25.89493751525879,
+          270.53118896484375
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 4,
+        "text": "The term space is used in the most literal way. Not like a space, or as if a\nspace, or space metaphorically speaking, except that if language is spatial, then perhaps\neverything is spatial in a metaphorical way. The social psychologist Kurt Levin takes the\nspace of subjectivity literally (Figure 1.4). The question of whether a field of data constitutes\na space depends upon whether there is a geometry that describes it, and allows for a\ndefinition of position. There are data fields in mathematics that constitute spaces because\nthey have a geometry. The fact that a geometry does not correspond to the experiential\nspace of vision – what Levin misleadingly calls *empirical space* – makes it no less spatial.$^{15}$\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          23.996348972685553,
+          272.6532570046419,
+          523.2570407717859,
+          272.6532570046419,
+          523.2570407717859,
+          614.0470899011664,
+          23.996348972685553,
+          614.0470899011664
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 11,
+        "text": "Topology is the simple space of containment. It is the most general science of spatial relations from which projective and Euclidean geometries are derived. For the subject, it corresponds to the fundamental experience and phenomenological aspect of space. We are first and foremost in space, in among our objects. We are included in it, surrounded by it. Even before we are in front of the image, or looking west on Ninth Avenue, or before the altar, we are in the city, or in the nave. When we stand before the image in which space is gathered around a vanishing point and we are positioned three bays back from the altar, we have already emerged from this more fundamental space. Whereas the image is visual, this space of inclusion may not necessarily be. It could be tactile, aural or olfactorial. It could be a surface or in three dimensions. Even the most formless space – white-out conditions, the open ocean (Freud’s oceanic space) – retains its property of inclusion for the winter mountaineer or mariner, long after size, distance and direction have abandoned him/her. Topology is the geometry of shifter space. The answer to the question *Where am I?*, in topological space is *I am (in) here*. This is the most basic form of spatial proposition, at least as concerns location. Location is given with respect to the shifter *here* that relates to the other shifter *I*. The shifter – I/you, here/there, this/that, now/then – is *the* sign of subjectivity.$^{16}$\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          25.483354904290792,
+          614.1661161782181,
+          522.5527756016304,
+          614.1661161782181,
+          522.5527756016304,
+          816.2712652529603,
+          25.483354904290792,
+          816.2712652529603
+        ],
+        "ignore": false,
+        "order": 4,
+        "anno_id": 12,
+        "text": "Lacan was interested in topology because it enabled him to contemplate the forms of spatiality of the signifying chain and to escape Freud's reliance on overly simplistic spatial concepts to describe psychoanalytic structures.${^17}$ According to Lacan, language has the structure of a Mobius strip, with signifiers on one side and signifieds on the other (the strip being the bar of signification), but which run together on its single surface (Figure 1.5a). The Mobius strip is a single surface with two sides. It is tempting to think you could drill an eyehole through it to see out the other side but you can also get there by travelling 360° around the strip without leaving or crossing its surface. A radical space slides beneath the plan of New Yorkistan, which is the foreign province of introjection, but no hole will get us to its other side.\n\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "title",
+        "poly": [
+          26.583650588989258,
+          855.1631469726562,
+          420.13427734375,
+          855.1631469726562,
+          420.13427734375,
+          876.0960693359375,
+          26.583650588989258,
+          876.0960693359375
+        ],
+        "ignore": false,
+        "order": 5,
+        "anno_id": 8,
+        "text": "*A View of the World...* and *New Yorkistan*, redux\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          25.697044372558594,
+          899.7124633789062,
+          522.711669921875,
+          899.7124633789062,
+          522.711669921875,
+          937.60693359375,
+          25.697044372558594,
+          937.60693359375
+        ],
+        "ignore": false,
+        "order": 6,
+        "anno_id": 9,
+        "text": "In 'The Mirror Stage', Lacan explains the identity of the ego in terms of the mirror image.\nThe subject views its specular image and assumes it as its own. This relation is nothing\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "header",
+        "poly": [
+          25.621822357177734,
+          22.80199432373047,
+          161.1284942626953,
+          22.80199432373047,
+          161.1284942626953,
+          36.12149429321289,
+          25.621822357177734,
+          36.12149429321289
+        ],
+        "ignore": false,
+        "anno_id": 2,
+        "text": "Projection and introjection",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          25.634138107299805,
+          977.214111328125,
+          39.35173034667969,
+          977.214111328125,
+          39.35173034667969,
+          987.9893798828125,
+          25.634138107299805,
+          987.9893798828125
+        ],
+        "ignore": false,
+        "anno_id": 10,
+        "text": "30",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": [
+        {
+          "source_anno_id": 3,
+          "target_anno_id": 4,
+          "relation_type": "truncated"
+        },
+        {
+          "source_anno_id": 9,
+          "target_anno_id": -1,
+          "relation_type": "truncated"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "page_info": {
+      "page_name": "adf0ea9c-f744-4f64-9f74-66a9d276f371",
+      "page_no": 44,
+      "height": 1014,
+      "width": 671,
+      "image_path": "../images/adf0ea9c-f744-4f64-9f74-66a9d276f371/page_44.jpg",
+      "page_attribute": {
+        "data_source": "academic_literature",
+        "subject": "ARCHITECTURE",
+        "challenge_type": "perception",
+        "language": "english",
+        "layout": "single_column",
+        "special_issue": []
+      }
+    },
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          149.89077555175834,
+          87.51713103271862,
+          645.1311625146491,
+          87.51713103271862,
+          645.1311625146491,
+          308.15486449219094,
+          149.89077555175834,
+          308.15486449219094
+        ],
+        "ignore": false,
+        "order": 1,
+        "anno_id": 3,
+        "text": "us where Pashmina is in New Yorkistan, and - by the slightly radiating script set at an\nangle - intimates the expansive spatiality of the sweeping view (from Morningside Drive)\nand the flood plane (of Harlem below). There is a fleeting identity between 'Pashmina'\nand the area of Pashmina, the circumscribed surface upon which it is written. It is of\nthe order of the *I am here* of graffiti - part word and part decoration and part gesture -\nwhich declares the position and physiognomy of a writer and his/her intersection with\na wall. The spatiality of the name is felt most acutely in the momentary frisson when\nencountering someone else with the same name. Not only is the name now visibly from\nelsewhere, borne by an other, but it is as if for a moment you might not be where you\nare, or might violate the logic of space, that the same object cannot be in two places at\nthe same time. Space seems to be other, and has no stability of location.\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "single_colored",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          148.83385873583515,
+          308.0190770510498,
+          643.8810560996327,
+          308.0190770510498,
+          643.8810560996327,
+          645.9523265192813,
+          148.83385873583515,
+          645.9523265192813
+        ],
+        "ignore": false,
+        "order": 2,
+        "anno_id": 7,
+        "text": "The name 'Pashima' and the surface on which it is written compete in the same space for reference to Pashmina, as if, in the matter of reference, the plan was over-determined. Although we can only access the space of the word through the graphic space of the plan, they are different. This linguistic space has to do with the network of relations that 'Pashmina' has to the other names in the plan, to the place names of Manhattan, and to the associations that New Yorkers bring to these made-up names ('Pashmina' =/$\\neq$ 'Pashtuns'). In this plan, signifiers shift inexplicably in relation to signifieds. This is one of the hallmarks of the foreign. For instance, Gaymenistan and the Lesbikhs are contiguous on the basis of two different types of association. The Gaymeni and Lesbikhs both hang out on the Lower West Side. Both groups are associated by their gender preferences. But on the other side of Central Parkistan, the Blahniks and the Bulimikhs are contiguous; this time the contiguity is based on alliteration.$^{11}$ In the former, the contiguity has to do with the signifieds, in the latter, with the signifiers. There is no apparent reason why it should be one way on the Hudson River and another on the East River. That's just the way it is with foreign lands and their customs. The successful tourist realises this, and comes back to his/her own culture enriched by the knowledge that it is equally conventional.$^{12}$\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "text_block",
+        "poly": [
+          149.59153747558594,
+          650.4093017578125,
+          644.0748291015625,
+          650.4093017578125,
+          644.0748291015625,
+          950.2351684570312,
+          149.59153747558594,
+          950.2351684570312
+        ],
+        "ignore": false,
+        "order": 3,
+        "anno_id": 5,
+        "text": "The adjacencies and separateness of, for example, 'Pashmina' or 'Blahniks'\nconstitute a topological space that underlies but is not commensurate with the metric\nspace of Pashmina or the Blahniks. Without a rigorous demonstration, we would like to\nclaim for language the space of topology. Instead of the familiar properties (dimension,\nangle, shape, proportion) of architectural space in which every name is confined to its\nown room, topological space is organised into regions and their boundaries, in relations\nof inclusion, intersection and foreign-ness. 'Pashmina' is not 3 m from 'Badassin'; it is\nseparated from 'Badassi' by 'Khlintunisia'. We are familiar with the spatiality of words\nby the dream work which links latent to manifest content. (As Freud demonstrated in his\nwalking talking tour of Signorelli/Herzegovina, names impress themselves with greater\nand lesser tenacity upon consciousness, and their strange allegiances come encumbered\nwith sex and death.) $^{13}$ Words are separated by displacement and joined by condensation\n(what for Lacan is metonymy and metaphor). Words are not smaller because they are\nfar away, they are only of greater or lesser use or familiarity, more or less tangled up\nwith other words. *New Yorkistan* is a battlescape between the competing spaces of the\n\n\n\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "header",
+        "poly": [
+          558.9595947265625,
+          36.363250732421875,
+          645.4395141601562,
+          36.363250732421875,
+          645.4395141601562,
+          48.99346923828125,
+          558.9595947265625,
+          48.99346923828125
+        ],
+        "ignore": false,
+        "anno_id": 2,
+        "text": "The New Yorkers",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      },
+      {
+        "category_type": "page_number",
+        "poly": [
+          630.3989868164062,
+          990.010498046875,
+          643.7190551757812,
+          990.010498046875,
+          643.7190551757812,
+          1000.2119140625,
+          630.3989868164062,
+          1000.2119140625
+        ],
+        "ignore": false,
+        "anno_id": 6,
+        "text": "29",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "extra": {
+      "relation": [
+        {
+          "source_anno_id": 5,
+          "target_anno_id": -1,
+          "relation_type": "truncated"
+        }
+      ]
+    }
+  }
+]
