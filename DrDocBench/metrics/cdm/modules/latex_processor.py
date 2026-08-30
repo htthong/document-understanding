@@ -55,7 +55,7 @@ def clean_latex(text):
     # TODO 有一些不能去掉的空格给补充回来
     for item in ["\\hline", "\\midrule", "\\times", "\\bf", "\\footnotesize", "\\cr", '\\log']:
         cleaned_text = cleaned_text.replace(item, item+" ")
-    cleaned_text = cleaned_text.replace(" \\mathcolor{black}", "\\mathcolor{black}")
+    cleaned_text = cleaned_text.replace(" \\textcolor{black}", "\\textcolor{black}")
     return cleaned_text
 
 def remove_trailing_latex(formula):
@@ -314,24 +314,24 @@ def token_add_color(l_split, idx, render_dict):
         num_end = find_matching_brace(l_split, num_start)
         den_start = num_end + 1
         den_end = find_matching_brace(l_split, den_start)
-        l_split_copy = l_split[:idx] + [r'\mathcolor{black}{'+token+'{'] + \
-                        [r'\mathcolor{gray}{'] + l_split[num_start + 1:num_end] + \
-                        ['}'] + [r'}{'] + [r'\mathcolor{gray}{'] + l_split[den_start + 1:den_end] + \
+        l_split_copy = l_split[:idx] + [r'\textcolor{black}{'+token+'{'] + \
+                        [r'\textcolor{gray}{'] + l_split[num_start + 1:num_end] + \
+                        ['}'] + [r'}{'] + [r'\textcolor{gray}{'] + l_split[den_start + 1:den_end] + \
                         ['}'] + ['}'] + ['}'] + l_split[den_end + 1:]
                         
         l_new = ' '.join(l_split_copy)
-        l_new = r'\mathcolor{gray}{ ' + l_new + ' }'
+        l_new = r'\textcolor{gray}{ ' + l_new + ' }'
         render_dict[str(idx)] = l_new, token
         next_idx = idx + 1
     elif token in ONE_Tail_Tokens:
         # ** tokens such as \hat A, and the token needs render too.
         num_start = idx + 1
         num_end = find_matching_brace(l_split, num_start)
-        l_split_copy = l_split[:idx] + [r'\mathcolor{black}{'] + l_split[idx: num_start+1] + \
-                        [r'\mathcolor{gray}{'] + l_split[num_start+1: num_end] + \
+        l_split_copy = l_split[:idx] + [r'\textcolor{black}{'] + l_split[idx: num_start+1] + \
+                        [r'\textcolor{gray}{'] + l_split[num_start+1: num_end] + \
                         ['}'] + l_split[num_end: num_end+1] + ['}'] + l_split[num_end+1:]
         l_new = ' '.join(l_split_copy)
-        l_new = r'\mathcolor{gray}{ ' + l_new + ' }'
+        l_new = r'\textcolor{gray}{ ' + l_new + ' }'
         render_dict[str(idx)] = l_new, token
         next_idx = idx + 1
     elif token in ONE_Tail_Invisb_Tokens:
@@ -341,9 +341,9 @@ def token_add_color(l_split, idx, render_dict):
         sub_idx = num_start+1
         if num_end-num_start == 2:
             l_split_copy = l_split.copy()
-            l_split_copy[sub_idx] = r'{\mathcolor{black}{' + l_split_copy[sub_idx] + '}}'
+            l_split_copy[sub_idx] = r'{\textcolor{black}{' + l_split_copy[sub_idx] + '}}'
             l_new = ' '.join(l_split_copy)
-            l_new = r'\mathcolor{gray}{ ' + l_new + ' }'
+            l_new = r'\textcolor{gray}{ ' + l_new + ' }'
             render_dict[str(idx)] = l_new, l_split[sub_idx]
             next_idx = num_end
         else:
@@ -355,10 +355,10 @@ def token_add_color(l_split, idx, render_dict):
         if l_split[idx+1] == '{':
             num_start = idx + 1
             num_end = find_matching_brace(l_split, num_start)
-            l_split_copy = l_split[:idx] + [r'\mathcolor{black}{'] + l_split[idx: idx+2] \
-                        + [r'\mathcolor{gray}{'] + l_split[num_start+1: num_end] + ['}}'] + l_split[num_end:]
+            l_split_copy = l_split[:idx] + [r'\textcolor{black}{'] + l_split[idx: idx+2] \
+                        + [r'\textcolor{gray}{'] + l_split[num_start+1: num_end] + ['}}'] + l_split[num_end:]
             l_new = ' '.join(l_split_copy)
-            l_new = r'\mathcolor{gray}{ ' + l_new + ' }'
+            l_new = r'\textcolor{gray}{ ' + l_new + ' }'
             render_dict[str(idx)] = l_new, token
             sub_idx = num_start+1
             while sub_idx < num_end:
@@ -369,12 +369,12 @@ def token_add_color(l_split, idx, render_dict):
             num_end = find_matching_brace(l_split, num_start, brace=['[', ']'])
             den_start = num_end + 1
             den_end = find_matching_brace(l_split, den_start)
-            l_split_copy = l_split[:idx] + [r'{\mathcolor{black}{'] + l_split[idx: idx+2] \
-                        + [r'\mathcolor{gray}{'] + l_split[idx+2: num_end] + ['}'] + l_split[num_end:den_start+1] \
-                        + [r'\mathcolor{gray}{'] + l_split[den_start+1: den_end] + ['}'] + l_split[den_end: den_end+1] \
+            l_split_copy = l_split[:idx] + [r'{\textcolor{black}{'] + l_split[idx: idx+2] \
+                        + [r'\textcolor{gray}{'] + l_split[idx+2: num_end] + ['}'] + l_split[num_end:den_start+1] \
+                        + [r'\textcolor{gray}{'] + l_split[den_start+1: den_end] + ['}'] + l_split[den_end: den_end+1] \
                         + ['}}'] + l_split[den_end+1:]
             l_new = ' '.join(l_split_copy)
-            l_new = r'\mathcolor{gray}{ ' + l_new + ' }'
+            l_new = r'\textcolor{gray}{ ' + l_new + ' }'
             render_dict[str(idx)] = l_new, token
             sub_idx = num_start + 1
             while sub_idx < num_end:
@@ -402,9 +402,9 @@ def token_add_color(l_split, idx, render_dict):
         # TODO special case :[], could be single, or in \sqrt[]{}.
         if (token == "[" and l_split[idx-1]!="\\sqrt") or (token == "]" and idx>=3 and l_split[idx-3]!="\\sqrt"):
             l_split_copy = l_split.copy()
-            l_split_copy[idx] = r'\mathcolor{black}{ ' + l_split_copy[idx] + ' }'
+            l_split_copy[idx] = r'\textcolor{black}{ ' + l_split_copy[idx] + ' }'
             l_new = ' '.join(l_split_copy)
-            l_new = r'\mathcolor{gray}{ ' + l_new + ' }'
+            l_new = r'\textcolor{gray}{ ' + l_new + ' }'
             render_dict[str(idx)] = l_new, token
             next_idx = idx + 1
         else:
@@ -413,10 +413,10 @@ def token_add_color(l_split, idx, render_dict):
         # ** nomal token
         l_split_copy = l_split.copy()
         # TODO sometimes there is translation after add color, the exp prove that \mathcolor{black}{ A } is better than \mathcolor{black}{A}
-        l_split_copy[idx] = r'\mathcolor{black}{ ' + l_split_copy[idx] + ' }'
+        l_split_copy[idx] = r'\textcolor{black}{ ' + l_split_copy[idx] + ' }'
 
         l_new = ' '.join(l_split_copy)
-        l_new = r'\mathcolor{gray}{ ' + l_new + ' }'
+        l_new = r'\textcolor{gray}{ ' + l_new + ' }'
         render_dict[str(idx)] = l_new, token
         next_idx = idx + 1
         
@@ -442,7 +442,7 @@ def token_add_color_RGB(l_split, idx, token_list, brace_color=False):
         num_end = find_matching_brace(l_split, num_start)
         den_start = num_end + 1
         den_end = find_matching_brace(l_split, den_start)
-        color_token = "\\mathcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
+        color_token = "\\textcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
         l_split = l_split[:idx] + [color_token+token] + l_split[idx+1: den_end+1] + ["}"] + l_split[den_end+1:]
         token_list.append(token)
         next_idx = idx + 1
@@ -450,7 +450,7 @@ def token_add_color_RGB(l_split, idx, token_list, brace_color=False):
         # ** tokens such as \hat A, and the token needs render too.
         num_start = idx + 1
         num_end = find_matching_brace(l_split, num_start)
-        color_token = "\\mathcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
+        color_token = "\\textcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
         if token != "\\underbrace" and num_end+1 < len(l_split) and l_split[num_end+1] == "_":
             l_split = l_split[:idx] + ["{"+color_token+token] + l_split[idx+1: num_end+1] + ["}}"] + l_split[num_end+1:]
         else:
@@ -463,7 +463,7 @@ def token_add_color_RGB(l_split, idx, token_list, brace_color=False):
         num_end = find_matching_brace(l_split, num_start)
         sub_idx = num_start+1
         if num_end-num_start == 2:
-            color_token = "\\mathcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
+            color_token = "\\textcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
             token_list.append(l_split[num_start+1])
             l_split = l_split[:num_start+1] + [color_token+l_split[num_start+1]+"}"] + l_split[num_end:]
         else:
@@ -475,7 +475,7 @@ def token_add_color_RGB(l_split, idx, token_list, brace_color=False):
         if l_split[idx+1] == '{':
             num_start = idx + 1
             num_end = find_matching_brace(l_split, num_start)
-            color_token = "\\mathcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
+            color_token = "\\textcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
             l_split = l_split[:idx] + [color_token+token] + l_split[idx+1: num_end+1] + ["}"] + l_split[num_end+1:]
             token_list.append(token)
             sub_idx = num_start+1
@@ -487,7 +487,7 @@ def token_add_color_RGB(l_split, idx, token_list, brace_color=False):
             num_end = find_matching_brace(l_split, num_start, brace=['[', ']'])
             den_start = num_end + 1
             den_end = find_matching_brace(l_split, den_start)
-            color_token = "\\mathcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
+            color_token = "\\textcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
             l_split = l_split[:idx] + [color_token+token] + l_split[idx+1: den_end+1] + ["}"] + l_split[den_end+1:]
             token_list.append(token)
             sub_idx = num_start + 1
@@ -515,7 +515,7 @@ def token_add_color_RGB(l_split, idx, token_list, brace_color=False):
         # print('skip', idx, token)
         # TODO special case :[], could be single, or in \sqrt[]{}.
         if (token == "[" and l_split[idx-1]!="\\sqrt") or (token == "]" and idx>=3 and l_split[idx-3]!="\\sqrt"):
-            color_token = "\\mathcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
+            color_token = "\\textcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
             l_split = l_split[:idx] + [color_token + l_split[idx] + "}"] + l_split[idx+1:]
             token_list.append(token)
             next_idx = idx + 1
@@ -524,12 +524,12 @@ def token_add_color_RGB(l_split, idx, token_list, brace_color=False):
     else:
         # ** nomal token
         if brace_color or (idx > 1 and l_split[idx-1] == "_"):
-            color_token = "\\mathcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
+            color_token = "\\textcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
             l_split = l_split[:idx] + ["{" + color_token + l_split[idx] + "}}"] + l_split[idx+1:]
             token_list.append(token)
             next_idx = idx + 1
         else:
-            color_token = "\\mathcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
+            color_token = "\\textcolor[RGB]{<color_<idx>>}{".replace("<idx>", str(len(token_list)))
             l_split = l_split[:idx] + [color_token + l_split[idx] + "}"] + l_split[idx+1:]
             token_list.append(token)
             next_idx = idx + 1

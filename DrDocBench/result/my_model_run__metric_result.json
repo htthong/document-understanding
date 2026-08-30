@@ -1,0 +1,86 @@
+{
+    "text_block": {
+        "all": {
+            "Edit_dist": {
+                "ALL_page_avg": 0.008723693798342463,
+                "edit_whole": 0.009941063693815238,
+                "edit_sample_avg": 0.010092062212755342
+            }
+        },
+        "group": {
+            "Edit_dist": {
+                "text_background: single_colored": 0.013298408220834172,
+                "text_background: white": 0.00880952380952381,
+                "text_language: text_english": 0.010092062212755342,
+                "text_rotate: normal": 0.010092062212755342
+            },
+            "sample_count": {
+                "text_background: single_colored": 14,
+                "text_background: white": 35,
+                "text_language: text_english": 49,
+                "text_rotate: normal": 49
+            }
+        },
+        "page": {
+            "Edit_dist": {
+                "ALL": 0.008723693798342463,
+                "challenge_type: perception": 0.006902321690023008,
+                "challenge_type: structural_reconstruction": 0.010545065906661917,
+                "data_source: academic_literature": 0.008052708638360176,
+                "data_source: book": 0.009226932668329177,
+                "language: english": 0.008723693798342463,
+                "layout: other_layout": 0.0,
+                "layout: single_column": 0.010177642764732873,
+                "subject: ARCHITECTURE": 0.008723693798342463
+            }
+        }
+    },
+    "display_formula": {
+        "all": {
+            "Edit_dist": {
+                "ALL_page_avg": "NaN"
+            },
+            "CDM": {}
+        },
+        "group": {},
+        "page": {}
+    },
+    "table": {
+        "all": {
+            "TEDS": {},
+            "TEDS_structure_only": {},
+            "Edit_dist": {
+                "ALL_page_avg": "NaN"
+            }
+        },
+        "group": {
+            "sample_count": {}
+        },
+        "page": {}
+    },
+    "reading_order": {
+        "all": {
+            "Edit_dist": {
+                "ALL_page_avg": 0.0,
+                "edit_whole": 0.0,
+                "edit_sample_avg": 0.0
+            }
+        },
+        "group": {
+            "sample_count": {}
+        },
+        "page": {
+            "Edit_dist": {
+                "ALL": 0.0,
+                "challenge_type: perception": 0.0,
+                "challenge_type: structural_reconstruction": 0.0,
+                "data_source: academic_literature": 0.0,
+                "data_source: book": 0.0,
+                "language: english": 0.0,
+                "layout: other_layout": 0.0,
+                "layout: single_column": 0.0,
+                "subject: ARCHITECTURE": 0.0
+            }
+        }
+    }
+}
