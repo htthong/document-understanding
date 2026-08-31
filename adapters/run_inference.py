@@ -2,6 +2,9 @@ import argparse
 import json
 import os
 import re
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from adapters import get_adapter
 
@@ -35,9 +38,6 @@ def load_prompt(prompt_path: str, num_images: int = 1) -> str:
 
 def run_md(adapter, args):
     save_root = args.save_root.rstrip("/")
-    if args.model_type not in save_root:
-        save_root = f"{save_root}_{args.model_type}"
-    save_root = f"{save_root}_{args.num_pages}p"
     os.makedirs(save_root, exist_ok=True)
 
     total, ok, skip = 0, 0, 0

@@ -1,10 +1,14 @@
 from typing import Dict, Type
 
 from adapters.base import BaseAdapter
-from adapters.qwen import QwenAdapter
+from adapters._qwen import QwenAdapter
+from adapters._groq import GroqAdapter
+from adapters._gemini import GeminiAdapter
 
 ADAPTER_REGISTRY: Dict[str, Type[BaseAdapter]] = {
     "qwen": QwenAdapter,
+    "groq": GroqAdapter,
+    "gemini": GeminiAdapter,
 }
 
 
